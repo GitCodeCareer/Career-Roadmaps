@@ -22,19 +22,42 @@ How we approach unknowns, challenges & projects - Your assumptions are shit; tes
 
 **Platform Buildout**<br>
 MVP:<br>
-- [ ] User Onboarding<br>
+- [ ] Admin Accounts<br>
+  - [ ] Moderate Reported Posts
+    - [ ] Modify Post
+    - [ ] Delete Post
+   - [ ] Moderate Reported Comments 
+      - [ ] Modify Comment
+      - [ ] Delete Comment
+    - [ ] Other Admin Options
+      - [ ] Warn users
+      - [ ] Temp-Ban users
 
-- [ ] User Settings<br>
-  - [ ] Username Set<br>
-  - [ ] Password<br>
-  - [ ] Password Reset<br>
-
-- [ ] User Profiles<br>
+- [ ] User Accounts<br>
   - [ ] Profile Page<br>
-    - [ ] Avatar       | <br>
-    - [ ] Social Links | GitHub, AngelList, LinkedIn, Twitter, Instagram<br>
-    - [ ] Follow User | <br>
-    - [ ] Follow User | <br>
+    - [ ] Avatar           | <br>
+    - [ ] Social Links     | GitHub, AngelList, LinkedIn, Twitter, Instagram<br>
+    - [ ] Follow User      | <br>
+    - [ ] Career Focus     | Front-end, Back-end, UX Design, Technical UX<br>
+    - [ ] Current Job      | <br>
+    - [ ] Location         | Country<br>
+    - [ ] Join Date        | Month & Year<br>
+    - [ ] skills/languages | <br>
+    - [ ] learning/trying  | <br>
+    - [ ] Projects         | Lists your Pinned GitHub Repos<br>
+    - [ ] Chats about      | What to reach out to the user about<br>
+    - [ ] Doing Now        | <br>
+  - [ ] User Onboarding<br>
+    - [ ] Login<br>
+    - [ ] Sign Up<br>
+    - [ ] Tour<br>
+  - [ ] User Settings<br>
+    - [ ] Avatar Set<br>
+    - [ ] Social Links Set<br>
+    - [ ] Sharing Set<br>
+    - [ ] Username Set<br>
+    - [ ] Password<br>
+    - [ ] Password Reset<br>
 
 - [ ] Markdown Posts<br>
   - [ ] Emoji Responses<br>
@@ -45,6 +68,8 @@ MVP:<br>
   - [ ] Share Post | Clean URL!, Twitter, Facebook, Instagram, Pinterest LinkedIn, Reddit | [#UserXP Poll](https://twitter.com/benjaminspak/status/1041208773719801856)<br>
   - [ ] Invite to Answer<br>
   - [ ] Report Post<br>
+  - [ ] Comment<br>
+    - [ ] Share Resources | Links to other helpful content
 
 - [ ] Career Roadmaps<br>
   - [ ] Front-end       | React, Angular, Flexbox, CSS Grid<br>
