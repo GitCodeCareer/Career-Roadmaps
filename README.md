@@ -19,23 +19,31 @@ How we approach unknowns, challenges & projects - Your assumptions are shit; tes
 1. Test & ask ask users your question.
 
 # Product Roadmap
-**Revenue:**<br>
-- [ ] spak.co/resources    | Wes Boss, Skillshare, Interview Cake, NordVPN<br>
-- [ ] spak.co/classes      | Instructor Led Webinars -- 10% org cut.<br>
-- [ ] spak.co/pro          | Contract & Freelance work for students -- 10% org cut.
 
-**Resources:**<br>
-  Career Roadmaps:<br>
+**Platform Buildout**<br>
+MVP:<br>
+- [ ] User Profiles<br>
+- [ ] Markdown Posts<br>
+  - [ ] Emoji Responses<br>
+
+Career Roadmaps:<br>
   - [ ] Front-end       | React, Angular, Flexbox, CSS Grid<br>
   - [ ] Back-end        | Ruby, C#, Java, PHP, JS<br>
   - [ ] Design UX       | User Surveys, Buyer Personas, Buyer Journeys, Color Psychology, UI Design Best Practices<br>
   - [ ] Technical UX    | User Surveys, Site speed, Indexability, SEO, 
+
+Future:<br>
+- [ ] spak.co/support      | Wes Boss, Skillshare, Interview Cake, NordVPN<br>
+- [ ] spak.co/classes      | Instructor Led Webinars -- 10% org cut.<br>
+- [ ] spak.co/pro          | Contract & Freelance work for students -- 10% org cut.<br>
+- [ ] spak.co/events       | Up-coming online events.<br>
+
+- [ ] spak.co/privacy      | <br>
+- [ ] spak.co/tos          |
 
 **Common Org Links**
 + spak.chat | Discord Invite
 + Spak.tv | YouTube Channel
 + 301daysofcode.com | Code Challenge
 + spak.pro | Freelance & Contract Work
-
-**Org on Social**
-"# org-product-roadmap" 
++ https://www.instagram.com/spak.co/
