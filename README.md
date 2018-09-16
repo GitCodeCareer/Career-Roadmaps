@@ -16,22 +16,22 @@ How we approach unknowns, challenges & projects - Your assumptions are shit; tes
 
 1. Determine biases and blind spots, in question form.
 1. Ask better questions. What is the essence of your question?
-1. Test & ask ask users your question.
+1. Test & ask users your question.
 
 # Product Roadmap
 
 **Platform Buildout**<br>
 MVP:<br>
 - [ ] Admin Accounts<br>
-  - [ ] Moderate Reported Posts
-    - [ ] Modify Post
-    - [ ] Delete Post
-   - [ ] Moderate Reported Comments 
-      - [ ] Modify Comment
-      - [ ] Delete Comment
-    - [ ] Other Admin Options
-      - [ ] Warn users
-      - [ ] Temp-Ban users
+  - [ ] Moderate Reported Posts<br>
+    - [ ] Modify Post<br>
+    - [ ] Delete Post<br>
+   - [ ] Moderate Reported Comments<br>
+      - [ ] Modify Comment<br>
+      - [ ] Delete Comment<br>
+    - [ ] Other Admin Options<br>
+      - [ ] Warn users<br>
+      - [ ] Temp-Ban users<br>
 
 - [ ] User Accounts<br>
   - [ ] Profile Page<br>
@@ -78,7 +78,7 @@ MVP:<br>
   - [ ] Technical UX    | User Surveys, Site speed, Indexability, SEO
 
 - [ ] Challenges [#UserXP Poll](https://twitter.com/benjaminspak/status/1041132303844614144)<br>
-  - [ ] #30Projects
+  - [ ] #30Projects<br>
   - [ ] #42Projects
 
 Future:<br>
@@ -90,8 +90,9 @@ Future:<br>
 - [ ] spak.co/tos          |
 
 - [ ] Enhancements
-  - [ ] Text highlighting & saving | Medium style.
-  - [ ] Image create | Highlight text, make an image, save it as square -- easy sharing for Instagram.
+  - [ ] Text highlighting & saving | Medium style. [#UserXP Poll](https://twitter.com/benjaminspak/status/1041351387160997888)<br>
+  - [ ] Image create | Highlight text, make an image, save it as square -- easy sharing for Instagram.<br>
+  - [ ] Sync Discord Chat with Website [DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter)
 
 **Common Org Links**
 + spak.chat | Discord Invite
@@ -99,3 +100,11 @@ Future:<br>
 + 301daysofcode.com | Code Challenge
 + spak.pro | Freelance & Contract Work
 + https://www.instagram.com/spak.co/
+
+**Common Org HashTags**
++ Programming Challenge | #301DaysOfCode 
++ Programming Challenge | #42Projects
++ Programming Challenge | #30Projects
++ Weekly Programming Discussion | #SpakChat
++ Monthly Hackathons | #SpakHack
++ UX fails & polls | #UserXP
