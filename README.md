@@ -20,7 +20,47 @@ How we approach unknowns, challenges & projects - Your assumptions are shit; tes
 
 # Product Roadmap
 
-**Platform Buildout**<br>
+**Lang & Frame**
+
++ Ruby on Rails (Back-end)
++ Bulma CSS (Style)
++ Vue.js (Front-end)
+
+**Dev Stages**
+
+Content <br>
+- [ ] Use survey questions & results to craft new user paths.<br>
+  - [ ] Newbie/Jr Web Developer [Survey Questions](https://goo.gl/forms/6eeiWFJwPfgfHNsf2)<br>
+  - [ ] Newbie/Jr Web Developer [Survey Results](https://twitter.com/benjaminspak/status/1042858871696642048)<br>
+  - [ ] Create text explainers for Career Roadmaps<br>
+
+Front & UX <br>
+- [x] Information Architecture<br>
+  Index <br>
+    /sign-up <br>
+      /tour <br>
+    /login <br>
+    /settings <br>
+    /u/username <br>
+    /challenges <br>
+    /resources <br>
+    /career-roadmaps <br>
+      /front-end <br>
+      /back-end <br>
+      /design-UX <br>
+      /technical-UX
+
+
+- [ ] View Wireframes<br>
+
+
+Back & DB <br>
+- [ ] Determine RoR Dependencies/Gems<br>
+- [ ] Build CRUD<br>
+  - [ ] Build API<br>
+
+
+**Platform Buildout Overview**<br>
 MVP:<br>
 - [ ] User Accounts<br>
   - [ ] Profile Page<br>
@@ -43,8 +83,8 @@ MVP:<br>
     - [ ] Password Reset<br>
 
 - [ ] Career Roadmaps<br>
-  - [ ] Front-end       | React, Angular, Flexbox, CSS Grid<br>
-  - [ ] Back-end        | Ruby, C#, Java, PHP, JS<br>
+  - [ ] Front-end       | React, Angular, Flexbox, CSS Grid, JS<br>
+  - [ ] Back-end        | Ruby, C#, Java, PHP<br>
   - [ ] Design UX       | User Surveys, Buyer Personas, Buyer Journeys, Color Psychology, UI Design Best Practices<br>
   - [ ] Technical UX    | User Surveys, Site speed, Indexability, SEO
 
@@ -56,7 +96,7 @@ MVP:<br>
 - [ ] spak.co/privacy      | <br>
 - [ ] spak.co/tos          |
 
-Future Browser Plugins:
+Future Browser Plugins:<br>
 - [ ] Text highlighting & saving | Medium style. [#UserXP Poll](https://twitter.com/benjaminspak/status/1041351387160997888)<br>
 - [ ] Image Create | Highlight text, make an image, save it as square -- easy sharing for Instagram.<br>
 
