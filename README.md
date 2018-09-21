@@ -25,6 +25,7 @@ How we approach unknowns, challenges & projects - Your assumptions are shit; tes
 + Ruby on Rails (Back-end)
 + Bulma CSS (Style)
 + Vue.js (Front-end)
++ MySQL (DB)
 
 **Dev Stages**
 
@@ -50,14 +51,16 @@ Front & UX <br>
       /design-UX <br>
       /technical-UX
 
-
-- [ ] View Wireframes<br>
-
+Views <br>
+- [ ] Wireframes<br>
+- [ ] Mockups<br>
+- [ ] Base HTML & CSS
 
 Back & DB <br>
-- [ ] Determine RoR Dependencies/Gems<br>
-- [ ] Build CRUD<br>
-  - [ ] Build API<br>
+- [ ] Determine RoR Dependencies/Gems <br>
+- [ ] DB Data structure
+- [ ] Build CRUD <br>
+  - [ ] Build API <br>
 
 
 **Platform Buildout Overview**<br>
