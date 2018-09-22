@@ -37,19 +37,37 @@ Content <br>
 
 Front & UX <br>
 - [x] Information Architecture<br>
-  Index <br>
-    /sign-up <br>
-      /tour <br>
-    /login <br>
-    /settings <br>
-    /u/username <br>
-    /challenges <br>
-    /resources <br>
-    /career-roadmaps <br>
-      /front-end <br>
-      /back-end <br>
-      /design-UX <br>
-      /technical-UX
+  + Index
+    + /sign-up/
+      + Email, Password
+      + /tour/
+        + Pick your username -- +20%
+        + Connect your accounts -- +20%
+        + Take determine your path -- +20%
+        + Get your MBTI personality -- +20%
+        + Take free classes -- +20%
+    + /login/
+      + Email, Password
+    + /settings/
+      + Change Username
+      + Change Password
+      + Save Social Profile Links
+    + /u/username/
+      + Display Profile Page
+    + /challenges
+      + Display Challenges Page
+    + /resources
+      + Display Challenges Page
+    + /career-roadmaps/
+      + Start Question Series
+        + /front-end/
+          + Display Info Page
+        + /back-end/
+          + Display Info Page
+        + /design-UX/
+          + Display Info Page
+        + /technical-UX/
+          + Display Info Page
 
 Views <br>
 - [ ] Wireframes<br>
