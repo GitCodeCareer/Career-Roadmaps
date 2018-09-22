@@ -76,6 +76,8 @@ Views <br>
 
 Back & DB <br>
 - [ ] Determine RoR Dependencies/Gems <br>
+  + [Devise (Users)](https://rubygems.org/gems/devise/versions/4.2.0) | [Setup User Authentication](https://youtu.be/zJYuLebl-Js) with Devise
+  + [Babosa (ULR Slugs)](https://rubygems.org/gems/babosa)
 - [ ] DB Data structure
 - [ ] Build CRUD <br>
   - [ ] Build API <br>
