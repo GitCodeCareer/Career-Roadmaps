@@ -1,3 +1,7 @@
+# App Repo
+
+[https://github.com/SpakMedia/SpakCoPlatform](https://github.com/SpakMedia/SpakCoPlatform)
+
 # Spak.co - Reiteration
 
 **Our Vision**<br>
