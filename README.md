@@ -82,6 +82,8 @@ Back & DB <br>
 - [ ] Determine RoR Dependencies/Gems <br>
   + [Devise (Users)](https://rubygems.org/gems/devise/versions/4.2.0) | [Setup User Authentication](https://youtu.be/zJYuLebl-Js) with Devise
   + [Babosa (ULR Slugs)](https://rubygems.org/gems/babosa)
+  + [SearchKick (Internal Search)](https://rubygems.org/gems/searchkick/versions/1.1.2)
+  + [paperclip (image upload)](https://rubygems.org/gems/paperclip/versions/4.3.6)
 - [ ] DB Data structure
 - [ ] Build CRUD <br>
   - [ ] Build API <br>
