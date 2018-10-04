@@ -72,17 +72,3 @@
   + No
 + What is your MBTI personality type? (https://www.16personalities.com)
 + How else can we help?
-
-# Common Org Links
-+ spak.chat | Discord Invite
-+ Spak.tv | YouTube Channel
-+ 301daysofcode.com | Code Challenge
-+ Instagram.com/spak.co
-
-# Common Org HashTags
-+ Programming Challenge | #301DaysOfCode 
-+ Programming Challenge | #42Projects
-+ Programming Challenge | #30Projects
-+ Weekly Programming Discussion | #SpakChat
-+ Monthly Hackathons | #SpakHack
-+ UX fails & polls | #UserXP
