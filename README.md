@@ -1,5 +1,33 @@
+# DevGains.com -- http://hacktheirl.com/ -- NOVEMBER 2 - NOVEMBER 4, 2018
+
 ## Hackathon Resources
 https://nyhackathons.com/tools/
+
+## UX/UI
+http://uxarchive.com/
+
+## Stock photos that don’t suck
+https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
+
+## Fonts
+http://100daysoffonts.com/
+
+## User Profile Images
+http://uifaces.com/
+
+## Graphics && Icons
+https://graphicburger.com/
+https://undraw.co/
+https://thenounproject.com/
+https://iconmonstr.com/
+https://icomoon.io/
+
+## CSS Amimations
+http://ianlunn.github.io/Hover/
+
+## Front-end Boiler Plate
+https://startbootstrap.com/
+https://bootsnipp.com/
 
     + /challenges
       + Display Challenges Page
