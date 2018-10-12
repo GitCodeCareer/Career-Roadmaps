@@ -1,3 +1,5 @@
+## Hackathon Resources
+https://nyhackathons.com/tools/
 
     + /challenges
       + Display Challenges Page
