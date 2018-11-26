@@ -1,0 +1,160 @@
+/* Schedule Area */
+#schedules{
+	background: #f3f4f3;
+}
+#schedule-tab{
+	position: relative;
+}
+.schedule{
+	.schedule-tab-title{
+		margin-bottom: 35px;
+		.nav-tabs{
+			background: #ffffff;
+			.nav-link{
+				border-radius: 0px;
+			    position: relative;
+			    cursor: pointer;
+			    height: 90px;
+			    width: 255px;
+			    border-bottom: 1px solid #e5e5e5;
+			    transition: all 500ms ease;
+			    padding: 20px 20px;
+			}
+		}
+		.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active,
+		.nav-tabs .nav-item .nav-link:hover{
+		    background: $preset;
+		    border: 1px solid $preset;
+		    transition: all 0.3s ease-in-out 0s;
+		    -moz-transition: all 0.3s ease-in-out 0s;
+		    -webkit-transition: all 0.3s ease-in-out 0s;
+		    -o-transition: all 0.3s ease-in-out 0s;
+		    h4{
+			    color: #fff;
+			}
+			h5{
+			    color: #fff;
+			}
+		}
+		.item-text{
+			h4{
+				font-size: 15px;
+			    color: #2f323c;
+			    line-height: 22px;
+			    font-weight: 400;
+			    text-transform: uppercase;
+			}
+			h5{
+				font-size: 14px;
+			    color: #848484;
+			    line-height: 16px;
+			    font-weight: 400;
+			    text-transform: capitalize;
+			}
+		}
+	}
+	.schedule-tab-content{
+		.tab-content{
+			box-shadow: 1px 3px 15px rgba(0, 0, 0, 0.1);
+		}
+		.card{
+			border: none;
+		}
+	}
+	.show .card-body{
+		background: #f3f4f3;
+	}
+	.collapsed{
+
+	}
+	.card-header{
+		border: none;
+		cursor: pointer;
+		background: #fff;
+		border-bottom: 1px solid #ddd;
+		.images-box{
+			width: 70px;
+		    height: 70px;
+		    float: left;
+		    margin-right: 20px;
+		    img{
+		    	border-radius: 50%;
+		    }
+		}
+		.time{
+			color: #777777;
+		    font-size: 13px;
+		    margin-bottom: 5px;
+		}
+		h4{
+			font-weight: 700;
+		    font-size: 18px;
+		    color: #212121;
+		    margin-bottom: 8px;
+		}
+		.name{
+			position: relative;
+		    font-size: 14px;
+		    color: #777777;
+		    font-weight: 500;
+		    display: inline-block;
+		    margin-bottom: 5px;
+		}
+	}
+	.card-body{
+		padding: 15px 70px 15px 110px;
+		background: #fff;
+		border-bottom: 1px solid #ddd;
+		.location{
+			font-size: 13px;
+			color: #777777;
+			span{
+				color: $preset;
+				margin-right: 5px;
+			}
+		}
+	}
+}
+
+.accordion{
+	.card{
+		border-radius: 0px;
+		margin-bottom: -2px;
+	}
+	.header-title{
+		position: relative;
+		&:after{
+		    font-family: "LineIcons";
+		    content: "\e93a";
+		    position: absolute;
+		    right: 10px;
+		    color: #999;
+		    top: 50%;
+		    line-height: 1;
+		    padding: 0px 5px;
+		    margin-top: -7px;
+	    }
+	}
+	.collapsed:after{
+      content: "\e940";
+    }
+	.card-header{
+		background: transparent;
+		cursor: pointer;
+		padding: 0;
+		i{
+			color: $preset;
+			width: 40px;
+		    height: 40px;
+		    display: inline-block;
+		    line-height: 40px;
+		    text-align: center;
+		    margin-right: 10px;
+			border-right: 1px solid #ddd;
+		}
+	}
+	.card-body{
+		padding-left: 56px;
+	}
+}
+

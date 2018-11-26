@@ -1,0 +1,114 @@
+#main-slide {
+	.carousel-control{
+		display: none;
+		transition: $transition;
+	}
+	.carousel-indicators{cursor: pointer; bottom: 90px;}
+	&:hover {
+		.carousel-control{
+			display: block;
+			transition: $transition;
+			-webkit-animation-duration: 1s;
+			  animation-duration: 1s;
+			  -webkit-animation-fill-mode: both;
+			  animation-fill-mode: both;
+			  -webkit-animation-name: fadeIn;
+			  animation-name: fadeIn;
+		}
+	}
+	.carousel-item img {
+	    position: relative;
+	    width: 100%;
+	}
+	.carousel-inner .carousel-item::after {
+	    bottom: 0;
+	    content: "";
+	    left: 0;
+	    position: absolute;
+	    right: 0;
+	    top: 0;
+	}
+	.carousel-item .carousel-caption {
+	    opacity: 0;
+	    transition: opacity 100ms ease 0s;
+	    z-index: 0;
+	    .heading{
+			font-size: 48px;
+			font-weight: 700;
+			color: #fff;
+			text-transform: uppercase;
+			letter-spacing: 0.1rem;
+			margin-top: 30px;
+		}
+		p{
+			font-size: 20px;
+		}
+	}
+	.carousel-item.active .carousel-caption {
+	    opacity: 1;
+	    transition: opacity 100ms ease 0s;
+	    z-index: 1;
+	}
+	.carousel-caption{
+	    color: #fff;
+	    position: absolute;
+	    top: 35%;
+	    .btn{
+	    	margin: 25px 25px 0px 0px;
+	    }
+	}
+
+}
+#main-slide .carousel-control-next,
+#main-slide .carousel-control-prev{
+	opacity: 1;
+	box-shadow: none;
+}
+
+#main-slide .carousel-control-prev span {
+    padding: 15px;
+}
+
+#main-slide .carousel-control-next span {
+    padding: 15px;
+}
+#main-slide .carousel-control {
+    top: 45%;
+}
+#main-slide .carousel-control .lni-chevron-left,
+#main-slide .carousel-control .lni-chevron-right{
+    position: absolute;
+    z-index: 5;
+}
+#main-slide .carousel-control .lni-chevron-left{
+    left: 15px;
+}
+
+#main-slide .carousel-control .lni-chevron-right{
+    right: 15px;
+}
+.carousel-indicators li{
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+}
+#main-slide .carousel-control i{
+    line-height: 40px;
+    font-size: 18px;
+    width: 45px;
+    border: 2px solid #fff;
+    height: 45px;
+    display: block;
+    border-radius: 2px;
+    background: transparent;
+    color: #fff;
+    -webkit-transition: all 500ms ease;
+    transition: all 500ms ease;
+    @include icon-shadow;
+}
+
+#main-slide .carousel-control i:hover{
+ 	background: rgba(255, 255, 255, 0.2); 
+	color: #fff; 
+ 	border-color: #fff;
+}

@@ -1,0 +1,181 @@
+/* Conact Home Page Section */
+.contact{
+	background: #111111;
+}
+#conatiner-map{
+	width: 100%;
+	height: 580px;
+}
+.title-forme{
+	font-size: 28px;
+    margin-bottom: 20px;
+}
+.contact-item{
+	position: relative;
+	text-align: center;
+	i{
+	    width: 70px;
+	    height: 70px;
+	    display: inline-block;
+	    line-height: 70px;
+	    font-size: 24px;
+	    text-align: center;
+	    margin-bottom: 30px;
+	    background: #2d2d2d;
+	    color: #fff;
+	    border-radius: 4px;
+	    -webkit-transition: .3s all;
+	    -o-transition: .3s all;
+	    transition: .3s all;
+	}
+	.contact-info{
+		h3{
+			color: $preset;
+			font-size: 18px;
+		    margin-bottom: 10px;
+		}
+		p{
+			color: #fff;
+		}
+	}
+}
+
+/* Subscribe Form */
+#subscribe{
+	background: #f2f2f2;
+}
+.subscribe-inner{
+	padding: 50px 0;
+    text-align: center;
+    .subscribe-title{
+    	font-size: 36px;
+    	margin-bottom: 30px;
+    }
+    p{
+    	color: #888;
+    	margin-bottom: 30px;
+    }
+    .sub-btn{
+    	margin: 0;
+	    width: 12rem;
+	    padding: 18px 40px;
+	    min-width: 12rem;
+	    position: absolute;
+	    top: 0;
+	    bottom: 0;
+	    right: 0;
+	    i{
+	    	margin-right: 5px;
+	    }
+    }
+    .form-control{
+    	position: relative;
+	    background: #fff;
+	    border: 1px solid $preset;
+	    border-radius: 0px;
+	    box-shadow: none;
+	    color: #888999;
+	    height: 55px;
+	    margin-right: -1px;
+	    width: 90%;
+    }
+    .form-control:focus{
+		color: #212121;
+	    background-color: #fff;
+	    border-color: $preset;
+	    outline: 0;
+	}
+    .form-inline{
+    	position: relative;
+    	margin-bottom: 30px;
+    	margin: 0 auto;
+    	width: 100%;
+    }
+}
+
+/* Contact Forme */
+#google-map-area{
+	position: relative;
+	.container-fluid{
+		padding-left: 0;
+		padding-right: 0;
+	}
+}
+	
+.container-form{
+	left: 0%;
+	padding: 40px 15px;
+	margin-left: -15px;
+	z-index: 99;
+    .form-wrapper{
+    	background-color: white;
+	    padding: 56px;
+	    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+	    .form-group{
+	    	margin-bottom: 30px;
+	    }
+	    .form-control{
+			display: block;
+		    width: 100%;
+		    line-height: 26px;
+		    font-size: 14px;
+		    box-shadow: none;
+		    color: #848484;
+		    text-transform: capitalize;
+		    background: #f7f7f7;
+		    border: 1px solid transparent;
+		    padding: 7px 19px;
+		    border-radius: 0px;
+		    background-image: none;
+		    background-clip: padding-box;
+		}
+		.form-control:focus{
+			color: #212121;
+		    background-color: #fff;
+		    border-color: $preset;
+		    box-shadow: none;
+		    outline: 0;
+		}
+ 	}
+
+}
+.form-submit{
+	.btn-common{
+		width: 100%;
+	}
+}
+
+.list-unstyled{
+	li{
+		margin-top: 10px;
+		color: #dc3545!important;
+	}
+}
+.text-danger {
+    margin-top: 20px;
+    font-size: 18px;
+}
+// Contact Page
+.form-control{
+	display: block;
+    width: 100%;
+    line-height: 27px;
+    font-size: 14px;
+    box-shadow: none;
+    color: #848484;
+    text-transform: capitalize;
+    background: #f7f7f7;
+    padding: 7px 19px;
+    border: 1px solid #e5e5e5;
+    border-radius: 0px;
+    transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+.form-control:focus{
+    border-color: $preset;
+    box-shadow: none;
+    outline: 0;
+}
+

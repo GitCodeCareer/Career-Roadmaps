@@ -1,0 +1,89 @@
+/* Pricing Ticket */
+#pricing{
+	background: url(../img/background/bg-pricing.jpg);
+    background-attachment: fixed;
+    overflow: hidden;
+    position: relative;
+    .section-title-header{
+    	.section-title{
+    		color: #fff;
+    	}
+    	p{
+    		color: #fff;
+    	}
+    }
+	.price-block-wrapper{
+		text-align: center;
+		display: inline-block;
+	    width: 100%;
+	    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+	    background: #ffffff;
+	    padding: 30px;
+	    .icon{
+	    	padding: 20px;
+	    	i{
+	    		font-size: 60px;
+	    		color: $preset;
+	    	}
+	    }
+	    .colmun-title{
+	    	margin-top: 15px;
+	    	h5{
+	    		font-size: 18px;
+			    line-height: 30px;
+			    color: #212121;
+			    margin-bottom: 5px;
+			    font-weight: 700;
+			    background: #ffffff;
+			    text-transform: uppercase;
+	    	}
+	    }
+	    .price{
+	    	padding-bottom: 10px;
+		    transition: all 500ms ease;
+		    -webkit-transition: all 500ms ease;
+		    -moz-transition: all 500ms ease;
+			h2{
+				font-size: 38px;
+			    color: #5c5c5c;
+			    line-height: 42px;
+			    margin: 0;
+			}
+			p{
+				font-size: 15px;
+			    color: #5c5c5c;
+			    font-weight: 700;
+			    letter-spacing: 1px;
+			    line-height: 30px;
+			    text-transform: uppercase;
+			    transition: all 500ms ease;
+			    -webkit-transition: all 500ms ease;
+			    -moz-transition: all 500ms ease;
+			}
+	    }
+	    .pricing-list{
+		    padding: 10px  60px 10px 78px;
+		    text-align: left;
+		    ul{
+				padding-bottom: 15px;
+		    	li{
+				    font-size: 15px;
+				    color: #212121;
+				    font-weight: 400;
+				    padding: 2px 0px;
+				    i{
+				    	margin-right: 7px;
+				    	font-size: 12px;
+				    	color: $preset;
+				    }
+		    	}
+		    }
+	    }
+	    .btn{
+	    	i{
+	    		font-size: 12px;
+	    		margin-right: 5px;
+	    	}
+	    }
+	}
+}

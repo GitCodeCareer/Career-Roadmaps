@@ -1,0 +1,64 @@
+/* ==========================================================================
+   Countdown Style Start
+   ========================================================================== */
+	.countdown-timer{
+		.heading-count{
+			padding: 10px 68px;
+			h2{
+				font-size: 40px;
+				color: #212121;
+				text-transform: uppercase;
+				line-height: 48px;
+			}
+			h4{
+				font-size: 24px;
+				font-weight: 300;
+				color: #fff;
+				margin-top: 30px;
+				span{
+					background: #212121; 
+					padding: 7px 15px;
+					border-radius: 4px;
+					}
+				}
+			p{
+				font-size: 14px;
+				color: #212121;
+				line-height: 30px;
+			}
+		}
+	}
+	.time-count div{
+		text-align: center;
+	}
+	.time-entry{
+		display: inline-block;
+		min-width: 120px;
+		margin: 15px;
+		height: 110px;
+		padding: 20px;
+		box-shadow: 1px 10px 20px rgba(0,0,0,0.2);
+		border-radius: 4px;
+		background: #fff;
+		text-align: center;
+		font-weight: 400;
+		color: #212121;
+		font-size: 16px;
+		letter-spacing: 1px;
+		text-transform: uppercase;
+		line-height: 22px;
+		span{
+			font-size: 45px;
+			line-height: 45px;
+			font-weight: 700;
+			display: block;
+			color: #212121;
+			margin-bottom: 10px;
+		}
+	}	
+	.time-entry:first-child{
+		border-left: none;
+	}
+	.time-countdown{
+		margin: 15px 0px 50px 0;
+	}
