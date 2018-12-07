@@ -42,7 +42,7 @@ https://medium.com/@dustin/stock-photos-that-dont-suck-62ae4bcbe01b
 http://100daysoffonts.com/
 
 ### User Profile Images
-http://uifaces.com/
+https://uifaces.co/
 
 ### Graphics && Icons
 https://graphicburger.com/
