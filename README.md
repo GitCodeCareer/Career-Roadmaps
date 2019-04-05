@@ -1,6 +1,10 @@
 # CodeCareer.org
 ## A Click Through Career Roadmap that Asks Users About Work Style Prefferences to Help Them Determine a Career Focus.
 
+### Mockup
+
+![alt text](https://github.com/GitCodeCareer/CodeCareer.org/blob/master/_assets/_images/mockup.png)
+
 ---
 ## MVP Features:
 + A Click Through Career Roadmap.
