@@ -1,4 +1,3 @@
-# CodeCareer.org
 ## A Click Through Career Roadmap that Asks Users About Work Style Prefferences to Help Them Determine a Career Focus.
 
 ### Mockup
